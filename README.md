@@ -62,12 +62,14 @@ To test the algorithms and compare results, the MovieLens dataset was used, whic
 | ItemAttribute (Genre)   | Item-based recommendation using genres as attributes.                                    |
 
 ### Metrics Summary Table
+
 | **Metric**    | **Description**                                                                 |
 |---------------|---------------------------------------------------------------------------------|
 | MAP@10        | Precision of ranked relevant items in the top-10 recommendations.             |
 | RECALL@10     | Proportion of relevant items successfully recommended in the top-10.           |
 | PRECISION@10  | Proportion of relevant items within the top-10 recommendations.               |
 | NDCG@10       | Ranking quality considering relevance and position of top-10 recommendations. |
+
 
 ## Results
 
