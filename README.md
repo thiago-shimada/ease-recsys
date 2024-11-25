@@ -34,7 +34,7 @@ pip install -r requirements.txt
 To run the EASE algorithm, simply execute the provided Jupyter Notebook:
 1. Open the Notebook
 ```bash
-jupyter notebook ease_recsys.ipynb
+jupyter notebook ease.ipynb
 ```
 2. Inside the notebook, you will:
 - Import the dataset.
