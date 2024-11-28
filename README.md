@@ -2,9 +2,11 @@
 
 In this repository, we provide an implementation of the Collaborative Recommendation System **EASE**, following the article **[Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/pdf/1905.03375)**.
 
-### Aditional links
-Basic explanation and execution of the code in this **[YouTube Video](https://www.youtube.com/watch?v=CaB4iXd8s_Y)**.
-
+### Additional Links
+- Basic explanation and execution of the code in this **[YouTube Video](https://www.youtube.com/watch?v=CaB4iXd8s_Y)**.
+- **Dataset:** [MovieLens Dataset](https://grouplens.org/datasets/movielens/) - Widely used benchmark dataset for recommendation systems.
+- **DOI Reference for EASE Paper:** [DOI: 10.1145/3308558.3313710](https://doi.org/10.1145/3308558.3313710).
+- **DOI Reference for MovieLens Dataset Paper:** [DOI: 10.1145/2827872](https://doi.org/10.1145/2827872).
 
 ## About EASE (Embarrassingly Shallow Autoencoders for Sparse Data)
 
