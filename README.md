@@ -1,8 +1,9 @@
 # Embarrassingly Shallow Autoencoders for Sparse Data (EASE)
 
-In this repository, we show an implementation of the Collaborative Recommendation System **EASE**.
+In this repository, we provide an implementation of the Collaborative Recommendation System **EASE**, following the article **[Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/pdf/1905.03375)**.
 
-Following the article **[Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/pdf/1905.03375)**.
+### Aditional links
+Basic explanation and execution of the code in this **[YouTube Video](https://www.youtube.com/watch?v=CaB4iXd8s_Y)**.
 
 
 ## About EASE (Embarrassingly Shallow Autoencoders for Sparse Data)
@@ -86,6 +87,6 @@ Below is a table summarizing the performance of EASE compared to baseline method
 The results show that EASE achieves the best performance across all evaluation metrics (MAP@10, RECALL@10, PRECISION@10, and NDCG@10), demonstrating its effectiveness in recommendation tasks compared to traditional collaborative filtering methods like UserKNN and ItemKNN, as well as attribute-based methods.
 
 
-
+This updated version includes the YouTube link for a comprehensive understanding and practical demonstration of the code.
 
 
